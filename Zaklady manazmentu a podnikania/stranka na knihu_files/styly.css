@@ -1,0 +1,108 @@
+body{
+background-color:black;
+background-attachment:fixed;
+}                
+
+.text_in_menu{
+position:absolute;
+top:120px;
+}
+
+.text_in_heading{
+color:red;
+position:absolute;
+top:15px;
+font-weight:bold;
+}
+
+.text_in_body{
+position:absolute;
+top:120px; 
+}
+
+.text_in_side{
+position:absolute;
+color:rgb(240,185,56);
+font-weight:none;
+width:268px;
+height:550px;
+overflow:auto;
+padding-right:20px;
+}
+
+.date{
+color:white;
+font-size:12px;
+}
+
+.novinka_text{
+color: rgb(0,255,0);
+}
+
+table{
+background-color: rgb(0,0,0);
+color:rgb(255,255,255);
+border-color:black;
+border-collapse: separate;
+}
+
+.mytable table{
+background-color:black;
+border-color:#404040;
+color:white;
+text-align:center;
+}
+
+.change a:hover{
+opacity: 0.6; 
+}
+
+a:link{   
+color:white;
+text-decoration:none;
+} 
+
+a:visited{
+color:white;
+text-decoration:none;
+}
+
+a:hover{
+color:rgb(123,191,106);
+text-decoration:none;
+}
+
+.text_in_menu a:link{   
+color:white;
+text-decoration:none;
+} 
+
+.text_in_menu a:visited{
+color:white;
+text-decoration:none;
+}
+
+.text_in_menu a:hover{
+color:rgb(123,191,106);
+text-decoration:none;
+margin:5px;
+}
+
+.text_in_body a:link{   
+color:white;
+text-decoration:none;
+} 
+
+.text_in_body a:visited{
+color:white;
+text-decoration:none;
+}
+
+.text_in_body a:hover{
+color:rgb(240,185,56);
+text-decoration:none;
+}
+
+
+
+

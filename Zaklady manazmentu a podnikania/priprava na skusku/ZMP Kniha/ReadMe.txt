@@ -1,0 +1,1 @@
+Urèené na edukaèné úèely, "good luck" na skúške.
